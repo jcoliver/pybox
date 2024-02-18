@@ -1,3 +1,4 @@
 pandas
 numpy
 plot9
+palmerpenguins
